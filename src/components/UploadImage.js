@@ -52,7 +52,7 @@ const UploadImage =()=> {
                         setImage(null)
                         var imagePreviw = document.getElementById("image_preview");
                         imagePreviw.src = ""
-                    history.push('/admin')
+                    history.push('/')
                     })
 
             })
