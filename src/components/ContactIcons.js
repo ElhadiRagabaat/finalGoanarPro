@@ -3,7 +3,7 @@ import React from 'react'
 const ContactIcons = () => {
     return (
         <div className="container contact3 mr-5 col-sm-12 contactIcons">
-        <div className="wraper">
+        <div className="wraper contactIcons">
             <div className="display-flex">
             <div>
                 <img className="address" src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/contact/icon1.png" alt="....." />
