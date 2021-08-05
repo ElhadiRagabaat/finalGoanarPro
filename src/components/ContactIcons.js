@@ -2,7 +2,7 @@ import React from 'react'
 
 const ContactIcons = () => {
     return (
-        <div className="container contact3 mr-5 col-md-12">
+        <div className="container contact3 mr-5 col-sm-12">
         <div className="wraper">
             <div className="display-flex">
             <div>
