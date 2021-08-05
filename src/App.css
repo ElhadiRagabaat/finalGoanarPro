@@ -171,3 +171,8 @@ input {
   max-width: 50%;
 object-fit: contain;
 }
+@media(max-width:768px){
+  .contactIcons{
+    display: block;
+  }
+}
