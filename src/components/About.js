@@ -33,7 +33,7 @@ const About = () => {
                 <div className="col-lg-6 col-md-12 mb-4">
 
                     <h1 className="about-title mt-5">about Me</h1>
-                    <p style={{color:"#27273f",fontSize:"18px"}}>
+                    <p style={{color:"#27273f",fontSize:"19px"}}>
                     Full Stack developer with over a year of experience.  Effective and reliable working autonomously and as part of a team. I am motivated to continue my career in Front and Back End Development, as well as in learning other coding languages. Dedicated athlete that has competed in national competitions
                     </p>
                       
