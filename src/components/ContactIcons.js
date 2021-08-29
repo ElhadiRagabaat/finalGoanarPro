@@ -11,19 +11,20 @@ const ContactIcons = () => {
             </div>
             <div>
                 <h6 className="contactTitle">Address</h6>
-                <p>Tel aviv <br />Sudan</p>
+                <p style={{color:"#27273f"}}>Tel aviv <br />Sudan</p>
             </div>
             </div>
         
             <div className="display-flex">
 
             <div>
+                <a href="tel:0537315943">
                 <img className="address" src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/contact/icon2.png" alt="....." />
-
+                </a>
             </div>
             <div>
                 <h6 className="contactTitle"> phone</h6>
-                <p>0537315943 <br />099828332323</p>
+                <p style={{color:"#27273f"}}>0537315943 <br />0552405027</p>
             </div>
             </div>
             <div className="display-flex">
@@ -34,7 +35,7 @@ const ContactIcons = () => {
             </div>
             <div>
                 <h6 className="contactTitle">Email</h6>
-                <p>goanarbol811@gmail.com <br />goanarbol811@gmail.com</p>
+                <p style={{color:"#27273f"}}>goanarbol811@gmail.com <br />goanarbol811@gmail.com</p>
             </div>
             </div>
             

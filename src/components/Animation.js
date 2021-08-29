@@ -21,7 +21,7 @@ import { motion } from "framer-motion";
       }}
     />
         <motion.img
-    src="./images2/care.jpg" alt="....."
+    src="./images2/laptop.jpeg" alt="....."
     className="profile-img"
       animate={{
         scale: [1, 2, 2, 1, 1],

@@ -22,7 +22,7 @@ const Contact = () => {
         <div className=" container contact3">
             <div className="row">
                 <div className="col-lg-6 col-md-12 mt-3">
-                    <img src="./images2/kids.jpeg" alt="Auther" />
+                    <img src="./images2/gog1.jpeg" alt="Auther"  className="conatctImage"/>
                 </div>
                 <div className="col-lg-6 col-md-12">
                     <h2 className=" col-md-12">Quick Contact</h2>
